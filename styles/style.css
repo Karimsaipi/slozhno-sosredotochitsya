@@ -98,7 +98,7 @@
 }
 
 .header__theme-menu-button:hover {
-  border: 1px solid var(--border-color);
+  border: 1px solid var(--hover-border-color);
 }
 
 .header__theme-menu-button:focus {
@@ -107,11 +107,11 @@
 
 .header__theme-menu-button:focus-visible {
   border: 1px solid transparent;
-  border-bottom: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--block-title-color);
 }
 
 .header__theme-menu-button_active {
-  border: 1px solid var(--border-color);
+  border: 1px solid var(--block-title-color);
   pointer-events: none;
 }
 
@@ -242,11 +242,11 @@
 }
 
 .link:hover {
-  border-bottom: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--block-title-color);
 }
 
 .link:focus-visible {
-  outline: 1px solid var(--border-color);
+  outline: 1px solid var(--block-title-color);
 }
 
 .concetration {

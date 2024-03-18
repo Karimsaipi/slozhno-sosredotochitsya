@@ -23,6 +23,7 @@
 --text-font-size: 18px;
 --border-color: rgba(50, 49, 45, 0.4);
 --visibility: hidden;
+--hover-border-color: rgba(53,52,48, 0.4);
 }
 
 @media (prefers-color-scheme: light) {
