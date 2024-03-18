@@ -22,4 +22,6 @@
 --text-font-size: 18px;
 --border-color: rgba(255, 0, 112, 0.4);
 --visibility: visible;
+--hover-border-color: rgba(255,0,112, 0.4);
+--link-title-color: #F1B2CE;
 }
